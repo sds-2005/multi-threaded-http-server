@@ -1,0 +1,17 @@
+# Executables
+my_server
+server
+wrk
+
+# Object files
+*.o
+
+# IDEs
+.vscode/
+
+# Benchmarking logs
+bench_results.txt
+bench_sweep.txt
+
+# OS generated files
+.DS_Store
